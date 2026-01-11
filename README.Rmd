@@ -36,6 +36,7 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example}
 library(rpackagehpalafoxp)
 ## basic example code
+str_split_one("a b", " ")
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:

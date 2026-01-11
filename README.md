@@ -26,6 +26,8 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(rpackagehpalafoxp)
 ## basic example code
+str_split_one("a b", " ")
+#> [1] "a" "b"
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
